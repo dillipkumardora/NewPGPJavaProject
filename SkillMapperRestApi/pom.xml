@@ -8,7 +8,7 @@
 	<name>SkillMapperRestApi Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.1.5.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<jackson.version>2.9.8</jackson.version>
 	</properties>
 
